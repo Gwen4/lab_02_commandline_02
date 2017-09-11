@@ -166,7 +166,7 @@ unzip mtec-1002-lab-02.zip
 Copy and paste the output below.
 ----------
 
-
+books	logs	web
 
 ==========
 We're going to mess around with archiving and compressing files.  We'll make a directory with a file in it... archive and compress it.... and uncompress it elsewhere.
@@ -189,7 +189,7 @@ List the files in the directory you're currently in (which should be stuff).
 Copy and paste the output below.
 ----------
 
-
+ent-v314-017:stuff student$ 
 
 ==========
 18. Go up one directory back into your home directory.  Run the following commands exactly to create a compressed archive of the stuff folder.
@@ -201,7 +201,14 @@ List the files in the directory you're currently in (which should be home).
 Copy and paste the output below.
 ----------
 
-
+Adlm			MPLABXProjects		Things			pancake
+Adobe			MTEC2230		__MACOSX		pymel.log
+Applications		Movies			food			stuff
+DatSiteDough.txt	Music			google.html		stuff.tar
+Desktop			New Unity Project	ipe.properties		xgen
+Documents		Pictures		isus
+Downloads		Public			mtec-1002-lab-02.zip
+Library			QLData			mtec1002-lab-02
 
 ==========
 19. Go up one directory back into your home directory.  Run the following commands exactly to create a compressed archive of the stuff folder.
@@ -219,7 +226,14 @@ Copy and paste the output below.
 Copy and paste the output below. (It should contain stuff.tar)
 ----------
 
-
+Adlm			MPLABXProjects		Things			pancake
+Adobe			MTEC2230		__MACOSX		pymel.log
+Applications		Movies			food			stuff
+DatSiteDough.txt	Music			google.html		stuff.tar
+Desktop			New Unity Project	ipe.properties		xgen
+Documents		Pictures		isus
+Downloads		Public			mtec-1002-lab-02.zip
+Library			QLData			mtec1002-lab-02
 
 ==========
 21. Now compress it!  Type:
